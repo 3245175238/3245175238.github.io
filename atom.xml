@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wzh052.github.io</id>
     <title>WZH&apos;s blog</title>
-    <updated>2020-08-24T03:43:06.729Z</updated>
+    <updated>2020-08-26T07:03:57.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wzh052.github.io"/>
     <link rel="self" href="https://wzh052.github.io/atom.xml"/>
@@ -10,6 +10,66 @@
     <logo>https://wzh052.github.io/images/avatar.png</logo>
     <icon>https://wzh052.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, WZH&apos;s blog</rights>
+    <entry>
+        <title type="html"><![CDATA[用Gridea和Github创建博客]]></title>
+        <id>https://wzh052.github.io/post/yong-gridea-he-github-chuang-jian-bo-ke/</id>
+        <link href="https://wzh052.github.io/post/yong-gridea-he-github-chuang-jian-bo-ke/">
+        </link>
+        <updated>2020-08-26T07:01:47.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="材料">材料</h1>
+<p>Gridea<a href="https://gridea.dev/">官网</a><br>
+Github账号<br>
+创建如下：<br>
+先要有个邮箱（如QQ邮箱）<br>
+然后打开Github<a href="https://github.com/">官网</a><br>
+<img src="https://s1.ax1x.com/2020/08/26/dRaDN4.png" alt="" loading="lazy"><br>
+点击<code>sign up</code><br>
+<img src="https://s1.ax1x.com/2020/08/26/dRd98s.png" alt="" loading="lazy"><br>
+输入用户名<code>Username</code><br>
+邮箱<code>Email address</code><br>
+密码<code>Password</code><br>
+<img src="https://s1.ax1x.com/2020/08/26/dRdxL6.png" alt="" loading="lazy"><br>
+然后点击验证<br>
+按提示操作即可<br>
+<img src="https://s1.ax1x.com/2020/08/26/dRwjhQ.png" alt="" loading="lazy"><br>
+最后点击<code>Create account</code>即可</p>
+<p>然后依次选择<br>
+<code>Student</code><br>
+<code>A little</code><br>
+<code>Learn to code</code><br>
+<code>Host a project(repository)</code><br>
+<code>Create a website with Github Pages</code><br>
+点击<code>Complete setup</code><br>
+然后打开邮箱，点击Github发过来的邮箱<br>
+<img src="https://s1.ax1x.com/2020/08/26/dR0TC4.png" alt="" loading="lazy"><br>
+即可完成注册。</p>
+<h1 id="创建仓库">创建仓库</h1>
+<p>打开Github<a href="https://github.com/">官网</a><br>
+<img src="https://s1.ax1x.com/2020/08/26/dRrBE6.gif" alt="" loading="lazy"></p>
+<h1 id="创建博客">创建博客</h1>
+<p>打开下载好的<code>Gridea</code><br>
+点击远程在域名中输出</p>
+<pre><code>自己Github用户名.github.io
+</code></pre>
+<p>仓库名称同上<br>
+分支填<code>master</code><br>
+仓库用户名填自己<code>Github</code>用户名<br>
+邮箱填注册<code>Github</code>账号的邮箱<br>
+令牌填<code>Github</code>自己账号的密码<br>
+点击<code>保存</code></p>
+<h1 id="主题更换">主题更换</h1>
+<p><img src="https://s1.ax1x.com/2020/08/26/dRynwq.png" alt="" loading="lazy"><br>
+如果觉得<code>Gridea</code>自带的主题不好看（就像我），可以点击<code>更多主题</code>。<br>
+<img src="https://s1.ax1x.com/2020/08/26/dRRPxO.gif" alt="" loading="lazy"><br>
+<img src="https://s1.ax1x.com/2020/08/26/dRhYod.gif" alt="" loading="lazy"></p>
+<h1 id="同步">同步</h1>
+<p>更改<code>Gridea</code>后，点击<code>预览</code>查看效果<br>
+点击<code>同步</code>或同步下面的世界图标<br>
+<img src="https://s1.ax1x.com/2020/08/26/dRh7TJ.png" alt="" loading="lazy"></p>
+<h1 id="成果">成果</h1>
+<p>我搭建的<a href="https://wzh052.github.io/">博客</a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[P1000 超级玛丽游戏]]></title>
         <id>https://wzh052.github.io/post/p1000-chao-ji-ma-li-you-xi/</id>
